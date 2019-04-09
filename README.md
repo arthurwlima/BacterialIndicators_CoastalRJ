@@ -10,7 +10,7 @@ Seawage from the underwater outlet can reach the bottom waters close to the recr
 <img src="Entero_Fundo_sqrt_github.png" alt="hi" class="inline" width="700"/>
 
 
-Seawater stratification is disrupted in winter months (June-Aug), when southwestern winds are more often. Disrupted water stratification and lower irradiance allows the feacal indicators to reach and persist in the surface waters. Map of Enterococcus abundance in surface waters:
+Seawater stratification occurs in the summer (Nov-Mar), when eastern winds cause a local upwelling in the Rio coast. Stratification is disrupted in winter months (June-Aug), when southwestern winds are more often. Disrupted water stratification and lower irradiance allows the feacal indicators to reach and persist in the surface waters. Map of Enterococcus abundance in surface waters:
 <img src="Entero_Sup_sqrt_github.png" alt="hi" class="inline"  width="700"/>
 
 
