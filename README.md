@@ -16,9 +16,10 @@ Seawater stratification is disrupted in winter months (June-Aug), when southwest
 
 
 
-
+<figure class="image">
 <img src="TempIlhas_PontosSep_Exc1_3.png" alt="hi" class="inline" align="left" width="400"/>
 <figcaption>{{Measured seawater temperature in the bottom (Fundo) and surface waters (Sup). Data form the outlet is highlghted in red.}}</figcaption>
+</figure>
 
 
 
