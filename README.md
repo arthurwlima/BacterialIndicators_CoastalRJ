@@ -9,13 +9,18 @@ Seawage from the underwater outlet can reach the bottom waters close to the recr
 <img src="Entero_Fundo_sqrt_github.png" alt="hi" class="inline"/>
 Enterococcus abundance in bottom waters
 
-Seawater stratification is disrupted in winter months (June-Aug), when southwestern winds are more often
-<img src="TempIlhas_PontosSep_Exc1_3.png" alt="hi" class="inline"/>
-Measured seawater temperature in the bottom (Fundo) and surface waters (Sup). Data form the outlet is highlghted in red.
 
-Disrupted water stratification and lower irradiance allows the feacal indicators to reach and persist in the surface waters
+Seawater stratification is disrupted in winter months (June-Aug), when southwestern winds are more often. Disrupted water stratification and lower irradiance allows the feacal indicators to reach and persist in the surface waters
+
 <img src="Entero_Sup_sqrt_github.png" alt="hi" class="inline"/>
 Enterococcus abundance in surface waters
+
+
+
+<img src="TempIlhas_PontosSep_Exc1_3.png" alt="hi" class="inline" align="left" width="100"/>
+Measured seawater temperature in the bottom (Fundo) and surface waters (Sup). Data form the outlet is highlghted in red.
+
+
 
 The hypereutrophic Guanabara bay (P1) is another source of seawage to the coastal zone, although it is more likely that feacal indicators reaching the beaches comes from the underwater outlet.
 <img src="Enterococcus_F_DistP4.png" alt="hi" class="inline"/>
