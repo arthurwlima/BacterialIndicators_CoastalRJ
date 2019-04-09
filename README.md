@@ -16,9 +16,11 @@ Seawater stratification is disrupted in winter months (June-Aug), when southwest
 
 
 Measured seawater temperature in the bottom (Fundo) and surface waters (Sup). Data form the outlet is highlghted in red.
+
 <img src="TempIlhas_PontosSep_Exc1_3.png" alt="hi" class="inline" width="500"/>
 
 
 
 The hypereutrophic Guanabara bay (P1) is another source of seawage to the coastal zone, although it is more likely that feacal indicators reaching the beaches comes from the underwater outlet. Enteroccus abundance as a function of distance from the outlet.
+
 <img src="Enterococcus_F_DistP4.png" alt="hi" class="inline" width="500"/>
