@@ -10,17 +10,17 @@ Seawage from the underwater outlet can reach the bottom waters close to the recr
 <img src="Entero_Fundo_sqrt_github.png" alt="hi" class="inline" width="700"/>
 
 
-Seawater stratification occurs in the summer (Nov-Mar), when eastern winds cause a local upwelling in the Rio coast. Stratification is disrupted in winter months (June-Aug), when southwestern winds are more often. Disrupted water stratification and lower irradiance allows the feacal indicators to reach and persist in the surface waters. Map of Enterococcus abundance in surface waters:
+Seawater stratification occurs in the summer (Nov-Mar), when eastern winds cause a local upwelling in the Rio coast. Stratification is disrupted in winter months (June-Aug), when southwestern winds are more often. Disrupted water stratification and lower solar irradiance allows the feacal indicators to reach and persist in surface waters. Map of Enterococcus abundance in surface waters:
 <img src="Entero_Sup_sqrt_github.png" alt="hi" class="inline"  width="700"/>
 
 
 
-Measured seawater temperature in the bottom (Fundo) and surface waters (Sup). Data form the outlet is highlghted in red.
+Measured seawater temperature in bottom (Fundo) and surface waters (Sup). Data from the outlet is highlighted in red.
 
 <img src="TempIlhas_PontosSep_Exc1_3.png" alt="hi" class="inline" width="500"/>
 
 
 
-The hypereutrophic Guanabara bay (P1) is another source of seawage to the coastal zone, although it is more likely that feacal indicators reaching the beaches comes from the underwater outlet. Enteroccus abundance as a function of distance from the outlet.
+The hypereutrophic Guanabara Bay (P1) is another source of seawage to the coastal zone, although it is more likely that feacal indicators reaching the beaches comes from the underwater outlet. Enterococcus abundance as a function of distance from the outlet.
 
 <img src="Enterococcus_F_DistP4.png" alt="hi" class="inline" width="500"/>
