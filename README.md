@@ -21,6 +21,7 @@ Measured seawater temperature in bottom (Fundo) and surface waters (Sup). Data f
 
 
 
-The hypereutrophic Guanabara Bay (P1) is another source of seawage to the coastal zone, although it is more likely that feacal indicators reaching the beaches comes from the underwater outlet. Enterococcus abundance as a function of distance from the outlet.
+The hypereutrophic Guanabara Bay (P1) is another source of seawage to the coastal zone, although it is more likely that feacal indicators reaching the beaches (Praia) comes from the underwater outlet. 
+Enterococcus abundance as a function of distance from the outlet.
 
 <img src="Enterococcus_F_DistP4.png" alt="hi" class="inline" width="500"/>
